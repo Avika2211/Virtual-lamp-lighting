@@ -1,1 +1,1 @@
-# Virtual-lamp-lighting
+# Virtual lamp lighting ceremony for online events!
